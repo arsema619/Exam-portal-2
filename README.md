@@ -12,15 +12,15 @@
 
 
 
-Problem Statement
+# Problem Statement
 
 Teachers often spend a lot of time preparing and grading paper-based exams, while students face delays in receiving results and limited flexibility in taking tests. This manual process is slow, stressful, and prone to errors. The Online Examination System aims to solve these issues by providing a web-based platform where teachers can easily create and manage exams, and students can take them online with instant, fair, and accurate results.
 
-Project Description
+# Project Description
 
 The Online Exam portal is a web-based platform that makes giving and taking exams easier, faster, and more reliable. Instead of using traditional paper tests, this system lets students take their exams online from anywhere. Teachers can create and manage exams in just a few clicks.
 
-Technology Used
+# Technology Used
 
 PHP:  PHP is used as the backend of the system to handle authentication, database operations, and communication between the frontend and the database. It replaces the earlier JavaScript-based simulation with a more secure and realistic server-side implementation.
 
