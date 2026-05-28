@@ -1,4 +1,4 @@
-<?php
+c:\xampp\htdocs\F\F\Exam-portal-2\app\models\Quiz.php<?php
 
 class Settings {
 
